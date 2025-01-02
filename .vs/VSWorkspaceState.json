@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Sociality-main",
+    "\\Sociality-main\\Reactivities",
+    "\\Sociality-main\\Reactivities\\Application",
+    "\\Sociality-main\\Reactivities\\Application\\Core",
+    "\\Sociality-main\\Reactivities\\Client-App\\public",
+    "\\Sociality-main\\Reactivities\\Client-App\\src",
+    "\\Sociality-main\\Reactivities\\Client-App\\src\\app",
+    "\\Sociality-main\\Reactivities\\Domain",
+    "\\Sociality-main\\Reactivities\\obj",
+    "\\Sociality-main\\Reactivities\\Persistence"
+  ],
+  "SelectedNode": "\\Sociality-main\\Reactivities\\API",
+  "PreviewInSolutionExplorer": false
+}
